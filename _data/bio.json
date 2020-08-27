@@ -1,48 +1,37 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Todd Lustig",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://0tjlustig.github.io/images/molly.png",
+    "email": "0tjlustig@gmail.com",
+    "phone": "630-639-9702",
+    "website": "https://0tjlustig.github.io",
+    "summary": "I am studying for a B.S. in Computer Science at Aurora University I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "0S521 Winfield Road",
+      "postalCode": "60190",
+      "city": "Winfield",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "0tjlustig",
+        "url": "http://github.com/0tjlustig"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Todd Lustig ",
+        "url": "http://linkedin.com/in/todd-l-75a16b193/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+      
       ]
     },
     {
@@ -83,7 +72,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "Aurora University, Aurora, IL",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
