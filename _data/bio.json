@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Todd Lustig",
-    "label": "Student",
+    "label": "Seeking Employment",
     "picture": "https://0tjlustig.github.io/images/33_Todd Lustig_400_2.png",
     "email": "0tjlustig@gmail.com",
     "phone": "630-639-9702",
     "website": "https://0tjlustig.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at Aurora University I expect to graduate in Spring, 2021.",
+    "summary": "I am an Aurora University graduate with a B.S. in computer science and minor in mathematics.",
     "location": {
       "address": "0S521 Winfield Road",
       "postalCode": "60190",
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "database management",
       "keywords": [
       ]
     }
@@ -50,19 +50,18 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "PHP",
+        "HTML/CSS",
+        "C#",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
         "g++",
@@ -73,11 +72,11 @@
   "education": [
     {
       "institution": "Aurora University, Aurora, IL",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2017-09-01",
+      "endDate": "2021-05-01",
+      "gpa": "3.106",
       "courses": [
       ]
     }
